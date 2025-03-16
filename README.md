@@ -1,4 +1,4 @@
-# Crypto Prices Tracker
+# Crypto Pulse
 
 A simple cryptocurrency price tracker built using React.js. It fetches real-time cryptocurrency data from the CoinGecko API and displays it in a user-friendly interface.
 
@@ -19,11 +19,11 @@ Make sure you have Node.js installed on your system.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/sachiny0106/cypto-prices-tracker.git
+   git clone https://github.com/sachiny0106/CryptoPulse.git
 
 2. **Navigate to the project directory:**
    ```bash
-   cd cypto-prices-tracker
+   cd CryptoPulse
    
 4. **Install the dependencies:**
    ```bash
